@@ -25,17 +25,19 @@ This project demonstrates the use of **data analytics, AI/ML models, and busines
 | **Web Framework** | Streamlit |
 | **Machine Learning** | scikit-learn, NumPy, Pandas |
 | **Visualization** | Matplotlib, Seaborn |
-| **Deployment (Optional)** | Streamlit Cloud / AWS EC2 / Azure App Service |
+
 
 ---
-
----
-
 ## ⚙️ Installation and Setup
 
-1. **Clone this repository**
+1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<your-username>/Streamlit_Bank_Loan_Prediction.git
-   cd Streamlit_Bank_Loan_Prediction
+   git clone https://github.com/Mansianwala/Bank-Loan-Prediction-System-using-Streamlit.git
+   cd Bank-Loan-Prediction-System-using-Streamlit
+2. **Install dependencies**
+   pip install -r requirements.txt
+
+
+
 
 
